@@ -1,8 +1,9 @@
 # 🗨 Codestrips
 > CREATE A BACK-END APP WITH JAVASCRIPT
+
 Build an API for a small application to allow users to create and save small one-pane comic strips.
 
-<img src="" width="600px" alt="preview" title="preview"/>
+<img src="https://github.com/SimonaPiz/Codestrips/blob/main/example.jpg" width="600px" alt="preview" title="preview"/>
 
 ## Table of Contents
 * [Project Overview](#project-overview)
