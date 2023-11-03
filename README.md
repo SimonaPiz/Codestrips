@@ -3,7 +3,7 @@
 
 Build an API for a small application to allow users to create and save small one-pane comic strips.
 
-<img src="https://github.com/SimonaPiz/Codestrips/blob/main/example.jpg" width="600px" alt="preview" title="preview"/>
+<img src="https://github.com/SimonaPiz/Codestrips/blob/76ae58d8d268cc0f08703c7ee69c2dd532b93af9/example.jpg" width="600px" alt="preview" title="preview"/>
 
 ## Table of Contents
 * [Project Overview](#project-overview)
