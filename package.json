@@ -1,0 +1,23 @@
+{
+  "name": "codestrips",
+  "version": "1.0.0",
+  "description": "es by codecademy",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "codecademy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "chai": "^4.3.6",
+    "express": "^4.18.2",
+    "mocha": "^10.0.0",
+    "morgan": "^1.10.0",
+    "sqlite3": "^5.1.2",
+    "supertest": "^6.3.0"
+  }
+}

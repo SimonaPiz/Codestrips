@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="620px" height="400px" viewBox="0 0 620 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Background 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="620" height="400"></rect>
+        <polygon id="path-3" points="0 175.333 175.998 175.333 175.998 0 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Copy-4" transform="translate(0.000000, -80.000000)">
+            <g id="Background-2" transform="translate(0.000000, 80.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-2" fill="#00DAB7" xlink:href="#path-1"></use>
+                <g id="Group-3" mask="url(#mask-2)">
+                    <g transform="translate(130.000000, 321.000000)" id="Page-1">
+                        <g>
+                            <polygon id="Fill-1" fill="#035245" opacity="0.668081975" points="200.903438 56.8175478 191.411506 46.6799346 179.565813 57.5430458 170.071103 46.7112776 158.371767 57.4425639 144.299217 44.5845636 90.2506947 109.914415 0 219 180.500463 219 361 219 270.750232 109.914415 215.674428 43.34375"></polygon>
+                            <polygon id="Fill-2" fill="#027F6B" points="181.019934 0 146.227848 41.313753 158.656669 52.46875 170.701739 41.6166492 180.295489 52.3680896 192.194548 41.6468473 201.79017 51.7165427 214.772152 40.0802062"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3-Copy" mask="url(#mask-2)">
+                    <g transform="translate(379.000000, 279.000000)" id="Page-1">
+                        <g>
+                            <polygon id="Fill-1" fill="#035245" opacity="0.668081975" points="134.121131 37.8783652 127.784413 31.1199564 119.876346 38.3620305 113.537772 31.1408517 105.727412 38.2950426 96.3327184 29.7230424 60.2504638 73.2762764 0 146 120.500309 146 241 146 180.750155 73.2762764 143.982097 28.8958333"></polygon>
+                            <polygon id="Fill-2" fill="#027F6B" points="120.847103 0 97.6202532 27.542502 105.91761 34.9791667 113.958779 27.7444328 120.363471 34.9120598 128.307163 27.7645648 134.713105 34.4776951 143.379747 26.7201374"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3-Copy-2" mask="url(#mask-2)">
+                    <g transform="translate(10.000000, 279.000000)" id="Page-1">
+                        <g>
+                            <polygon id="Fill-1" fill="#035245" opacity="0.668081975" points="134.121131 37.8783652 127.784413 31.1199564 119.876346 38.3620305 113.537772 31.1408517 105.727412 38.2950426 96.3327184 29.7230424 60.2504638 73.2762764 0 146 120.500309 146 241 146 180.750155 73.2762764 143.982097 28.8958333"></polygon>
+                            <polygon id="Fill-2" fill="#027F6B" points="120.847103 0 97.6202532 27.542502 105.91761 34.9791667 113.958779 27.7444328 120.363471 34.9120598 128.307163 27.7645648 134.713105 34.4776951 143.379747 26.7201374"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Page-1" mask="url(#mask-2)">
+                    <g transform="translate(15.000000, 6.000000)">
+                        <path d="M132.3703,84.8306 C132.3703,109.7526 112.1663,129.9566 87.2443,129.9566 C62.3213,129.9566 42.1173,109.7526 42.1173,84.8306 C42.1173,59.9076 62.3213,39.7046 87.2443,39.7046 C112.1663,39.7046 132.3703,59.9076 132.3703,84.8306 Z" id="Fill-1" stroke="none" fill="#027F6B" fill-rule="evenodd"></path>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-4" stroke="none" fill="none"></g>
+                        <polygon id="Fill-3" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="83.884 31.619 92.134 31.619 92.134 0 83.884 0"></polygon>
+                        <polygon id="Fill-5" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="144.379 92.134 175.998 92.134 175.998 83.884 144.379 83.884"></polygon>
+                        <polygon id="Fill-6" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="0 92.134 31.619 92.134 31.619 83.884 0 83.884"></polygon>
+                        <polygon id="Fill-7" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="124.9548 45.2256 147.3128 22.8676 153.1468 28.7016 130.7888 51.0596"></polygon>
+                        <polygon id="Fill-8" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="22.8547 28.6904 28.6887 22.8574 51.0467 45.2144 45.2127 51.0484"></polygon>
+                        <polygon id="Fill-9" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="83.884 175.333 92.134 175.333 92.134 143.714 83.884 143.714"></polygon>
+                        <polygon id="Fill-10" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="144.379 91.449 175.998 91.449 175.998 83.199 144.379 83.199"></polygon>
+                        <polygon id="Fill-11" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="0 91.449 31.619 91.449 31.619 83.199 0 83.199"></polygon>
+                        <polygon id="Fill-12" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="130.7888 124.2734 153.1468 146.6314 147.3128 152.4644 124.9548 130.1064"></polygon>
+                        <polygon id="Fill-13" stroke="none" fill="#027F6B" fill-rule="evenodd" mask="url(#mask-4)" points="45.2126 124.2842 51.0466 130.1182 28.6886 152.4762 22.8546 146.6422"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
