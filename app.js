@@ -25,7 +25,24 @@ app.post('/strips', (req, res, next) => {
   const newStrip = req.body.strip;
   
   if (isValidStrip(newStrip)) {
-     
+    db.run(
+      `INSERT INTO Strip (head, body, background, bubble_type, bubble_text, caption)
+      VALUES(
+        '${newStrip.head}', 
+        '${newStrip.body}', 
+        '${newStrip.background}', 
+        '${newStrip.bubbleType}',
+        '${newStrip.bubbleText}',
+        '${newStrip.caption}'
+      );`, 
+      function(err) {
+        if (err != null) {
+          res.status(500).send(err);
+          return;
+        }
+        
+      }
+    );
   } else {
     res.status(400).send();
   } 
