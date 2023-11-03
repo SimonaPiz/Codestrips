@@ -12,6 +12,13 @@ app.use(bodyParser.json());
 
 app.use(express.static('public'));
 
+// GET '/strips'
+app.get('/strips', (req, res, next) => {
+  db.all(`SELECT * FROM Strip;`, (err, rows) => {
+    res.send({ strips: rows });
+  });  
+});
+
 app.listen(PORT, ()=>{
   console.log('Server is listening at port ' + PORT);
 });
